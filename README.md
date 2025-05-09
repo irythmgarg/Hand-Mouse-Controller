@@ -61,6 +61,21 @@ MIT — Feel free to use this project for personal or commercial use.
 
 ---
 
+🧠 Skills Gained
+
+Real-time hand tracking using MediaPipe
+
+Gesture recognition and mapping to system input
+
+Using OpenCV for image capture and rendering
+
+Mouse automation with PyAutoGUI
+
+Building interactive computer vision projects
+
+---
+
+
 
 👤 Author
 
